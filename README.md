@@ -2,6 +2,7 @@
 This is the final project for the Computational Literacy course.
 My corpus for the project focuses on newspaper headlines from two major Bangladeshi newspapers covering a recent political disruption in Bangladesh, starting with the Quota Movement and ending with the fall of the regime government.
 I wanted to know how the movement was represented in the headlines during the core period.
+
 Research Questions:
 I. What were the most common words or phrases in the headlines?  
 II. Did different news newspapers cover the topic in the same way, or were there 
